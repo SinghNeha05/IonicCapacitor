@@ -1,0 +1,7 @@
+{
+  "appId": "com.example.CapacitorPoc",
+  "appName": "CapacitorPoc",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
